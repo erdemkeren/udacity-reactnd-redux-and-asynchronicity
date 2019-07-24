@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/udacity-reactnd-redux-and-asynchronicity/static/js/main.04c50b2b.chunk.js",
+    "main.js.map": "/udacity-reactnd-redux-and-asynchronicity/static/js/main.04c50b2b.chunk.js.map",
+    "runtime~main.js": "/udacity-reactnd-redux-and-asynchronicity/static/js/runtime~main.b1f293d4.js",
+    "runtime~main.js.map": "/udacity-reactnd-redux-and-asynchronicity/static/js/runtime~main.b1f293d4.js.map",
+    "static/css/2.59ca6ef4.chunk.css": "/udacity-reactnd-redux-and-asynchronicity/static/css/2.59ca6ef4.chunk.css",
+    "static/js/2.17b0ce7b.chunk.js": "/udacity-reactnd-redux-and-asynchronicity/static/js/2.17b0ce7b.chunk.js",
+    "static/js/2.17b0ce7b.chunk.js.map": "/udacity-reactnd-redux-and-asynchronicity/static/js/2.17b0ce7b.chunk.js.map",
+    "index.html": "/udacity-reactnd-redux-and-asynchronicity/index.html",
+    "precache-manifest.00211478f89eed4d9ee2e6092c92364a.js": "/udacity-reactnd-redux-and-asynchronicity/precache-manifest.00211478f89eed4d9ee2e6092c92364a.js",
+    "service-worker.js": "/udacity-reactnd-redux-and-asynchronicity/service-worker.js",
+    "static/css/2.59ca6ef4.chunk.css.map": "/udacity-reactnd-redux-and-asynchronicity/static/css/2.59ca6ef4.chunk.css.map"
+  }
+}
