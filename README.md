@@ -1,4 +1,4 @@
-The source code of the application developed for tue Udacity React Webinar: **"Redux and asynchronicity (thunk middleware)"**
+The source code of the application developed for the Udacity React Webinar: **"Redux and asynchronicity (thunk middleware)"**
 
 This application utilizes the api of https://randomuser.me and the [table component of ant design](https://ant.design/components/table/)
 and demonstrates an example usage of thunk middleware with async requests.
