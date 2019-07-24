@@ -2,16 +2,25 @@
   "name": "webinar-9",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://erdemkeren.github.io/udacity-reactnd-redux-and-asynchronicity",
   "dependencies": {
+    "antd": "^3.19.5",
+    "axios": "^0.19.0",
+    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-redux": "^7.1.0",
+    "react-scripts": "3.0.1",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
